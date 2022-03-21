@@ -29,6 +29,10 @@ img{
 body{
     height: 100vh;
     background-color: var(--body-color);
+    background-image: url(img/backgroung.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 body.dark{
